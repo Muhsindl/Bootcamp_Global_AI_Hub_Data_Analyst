@@ -42,9 +42,6 @@ kablosuz olarak iletilmiştir.
 gibi bilgileri içermektedir.
 
 
-![image](https://github.com/user-attachments/assets/b73830e0-40b6-4757-823f-7d7472e86845)
-
-
 # Çalışmada Uygulanan Adımlar
 # 1. Veri İncelemesi ve Ön İşleme
 - Veri setinde eksik değer bulunmamaktadır.
