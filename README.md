@@ -103,3 +103,8 @@ Motor sıcaklık bileşenleri, elektrik motorlarının performansı ve ömrü ü
 - *Model Entegrasyonu:* Seçilen ML modelinin IoT sensör sistemlerine entegre edilmesi, sıcaklık tahmini doğruluğunu 
   artıracaktır.
 - *Enerji Verimliliği:* Motorun çalıştırılma parametreleri optimize edilerek enerji verimliliği sağlanabilir.
+
+<hr>
+
+*Kaggle Bağlantısı:*
+https://www.kaggle.com/code/muhsindolu/electric-motor-temperature
