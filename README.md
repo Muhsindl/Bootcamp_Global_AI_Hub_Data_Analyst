@@ -106,5 +106,6 @@ Motor sıcaklık bileşenleri, elektrik motorlarının performansı ve ömrü ü
 
 <hr>
 
-*Kaggle Bağlantısı:*
+#*Kaggle Bağlantısı:*
+
 https://www.kaggle.com/code/muhsindolu/electric-motor-temperature
