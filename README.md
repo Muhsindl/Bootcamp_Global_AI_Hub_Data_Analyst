@@ -40,7 +40,6 @@ kablosuz olarak iletilmiştir.
 
 gibi bilgileri içermektedir.
 
-
 # Çalışmada Uygulanan Adımlar
 # 1. Veri İncelemesi ve Ön İşleme
 - Veri setinde eksik değer bulunmamaktadır.
@@ -76,7 +75,6 @@ gibi bilgileri içermektedir.
 - Motor sıcaklıklarının zaman içindeki davranışlarını tahmin etmek, aşırı ısınmayı önlemek için erken uyarı sistemlerinin 
   geliştirilmesini mümkün kılar.
 
-
 # Problemin İşlevsel Kullanımı ve Çözüm Önerisi
 # Problem
 Motor sıcaklık bileşenleri, elektrik motorlarının performansı ve ömrü üzerinde doğrudan etkilidir. Ani sıcaklık artışları motor arızalarına yol açabilir. Bu veri seti, elektrikli motorların sıcaklıklarını izleyerek performansı optimize etmeye yönelik bir tahmin modeli oluşturmak için kullanılabilir.
@@ -94,7 +92,6 @@ Motor sıcaklık bileşenleri, elektrik motorlarının performansı ve ömrü ü
   sıcaklık değerlerini tahmin etmek için kullanılabilir.
 - *Random Forest Regressor:* Özellikle değişkenler arasındaki doğrusal olmayan ilişkilerin analizi için etkili bir 
  yöntemdir.
-
 
 # Öneriler
 - *Termal Yönetim Sistemi:* Motor sıcaklıklarını sürekli izleyen ve yüksek sıcaklık durumlarında uyarı veren bir sistem 
